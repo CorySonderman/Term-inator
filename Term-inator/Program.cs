@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Threading;
 using System.Media;
+
 using NAudio.Wave;
 
 
@@ -11,6 +12,15 @@ namespace Term_inator
     {
         static void Main(string[] args)
         {
+            if (OperatingSystem.IsWindows())
+            {
+                SoundPlayer soundPlayer = new SoundPlayer("Terminator_Intro.wav");
+                soundPlayer.Load();
+                soundPlayer.Play();
+            }
+
+
+
             IntroPage introPage = new();
             introPage.Intro();
             Console.ReadKey();
