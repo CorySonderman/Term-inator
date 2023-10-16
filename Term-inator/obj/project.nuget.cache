@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "T4aEPHSsutbDmbYYxT/EEab7go7ma5HE06SLQxhx7sjxvZJhLQWhXox5k6VB2PXaPR2Jc1P+WNzULe0dABalyw==",
+  "dgSpecHash": "2d+mwXSsrZ1+wlsh1dJv1ULJtT6hJa2ogKh9e5gjStqS5KuiLS9XRsNvSkjwvXxvrW2oozgnGsi/HyCy0RB6Pw==",
   "success": true,
   "projectFilePath": "C:\\Users\\sonde\\Desktop\\repos\\Term-inator\\Term-inator\\Term-inator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sonde\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio\\2.2.1\\naudio.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio.asio\\2.2.1\\naudio.asio.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio.core\\2.2.1\\naudio.core.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio.midi\\2.2.1\\naudio.midi.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio.wasapi\\2.2.1\\naudio.wasapi.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\naudio.winmm\\2.2.1\\naudio.winmm.2.2.1.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\sonde\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
